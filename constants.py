@@ -111,6 +111,10 @@ CONVERSATION_LOG_ERROR_MESSAGE = "過去の会話履歴の表示に失敗しま�
 GET_LLM_RESPONSE_ERROR_MESSAGE = "回答生成に失敗しました。"
 DISP_ANSWER_ERROR_MESSAGE = "回答表示に失敗しました。"
 
+
+# ==========================================
+# 問題２用の追加分
+# ==========================================
 # RAG関連設定
 MY_RETRIEVER_TOP_K = 5  # ベクターストアから取得する関連ドキュメント数
 
